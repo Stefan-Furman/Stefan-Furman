@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stefan-Furman
-- 👀 I’m interested in teaching students jav
+- 👀 I’m interested in teaching students java!
 - 📫 How to reach me: stefanfurman8@gmail.com
 
 <!---
