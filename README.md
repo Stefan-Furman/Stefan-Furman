@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stefan-Furman
-- 👀 I’m interested in learning and trying new things
 - 📫 How to reach me: stefanfurman8@gmail.com
+- Tutoring: https://stefan-tutoring.company.site/
 
 <!---
 Stefan-Furman/Stefan-Furman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
